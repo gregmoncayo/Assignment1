@@ -1,1 +1,23 @@
+wc-dhcp126d111:assignment1 gregorymoncayo$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   CommonSpear.cpp
+	modified:   CommonSpear.h
+	modified:   CommonSword.cpp
+	modified:   CommonSword.h
+	modified:   README.md
+	modified:   Weapon.cpp
+	modified:   Weapon.h
+	modified:   WeaponFactory.cpp
+	modified:   WeaponFactory.h
+	modified:   main.cpp
+
+no changes added to commit (use "git add" and/or "git commit -a")
+wc-dhcp126d111:assignment1 gregorymoncayo$ 
+
 
