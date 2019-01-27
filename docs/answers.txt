@@ -1,4 +1,56 @@
-wc-dhcp126d111:assignment1 gregorymoncayo$ git push
-Username for 'https://github.com': gregmoncayo
-Password for 'https://gregmoncayo@github.com': 
-Everything up-to-date
+3A. )	wc-dhcp126d111:assignment1 gregorymoncayo$ git push
+	Username for 'https://github.com': gregmoncayo
+	Password for 'https://gregmoncayo@github.com': 
+	Everything up-to-date
+
+3B. ) wc-dhcp126d111:assignment1 gregorymoncayo$ git shortlog -s
+     2  Javier Escobar-Avila
+     4  gregmoncayo
+	wc-dhcp126d111:assignment1 gregorymoncayo$ git log
+	commit 171040903bd9217643fa8d520bd4a2f2b81c5dfc (HEAD -> master)
+	Author: gregmoncayo <gregorymoncayo25@hotmail.com>
+	Date:   Sun Jan 27 16:33:41 2019 -0500
+
+    	Added answer.txt to docs file
+
+	commit 85c3ca0463d1fcd9c292077f8b4578113b3d8081 (origin/master, origin/HEAD)
+	Author: gregmoncayo <gregorymoncayo25@hotmail.com>
+	Date:   Sun Jan 27 16:30:20 2019 -0500
+
+    	Completed 3C
+
+	commit 435bc788df812b6ee9fa3c77af06e87e3c85f710
+	Author: gregmoncayo <gregorymoncayo25@hotmail.com>
+	Date:   Sun Jan 27 16:29:10 2019 -0500
+
+    	chmod777
+
+	commit ba531ec2bd201e065f69a4d5434fe227d7d09079
+	Author: gregmoncayo <gregorymoncayo25@hotmail.com>
+	Date:   Sun Jan 27 16:21:45 2019 -0500
+
+    	3A
+	wc-dhcp126d111:assignment1 gregorymoncayo$
+
+3C. ) There is no gitignore file.
+
+	wc-dhcp126d111:assignment1 gregorymoncayo$ git status --ignored
+	On branch master
+	Your branch is ahead of 'origin/master' by 1 commit.
+  	(use "git push" to publish your local commits)
+
+	Changes not staged for commit:
+  	(use "git add <file>..." to update what will be committed)
+  	(use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   docs/answers.txt
+
+	no changes added to commit (use "git add" and/or "git commit -a")
+	wc-dhcp126d111:assignment1 gregorymoncayo$ git status --ignored traditional
+	On branch master
+	Your branch is ahead of 'origin/master' by 1 commit.
+  	(use "git push" to publish your local commits)
+
+	nothing to commit, working tree clean
+
+3D. )
