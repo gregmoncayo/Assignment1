@@ -1,0 +1,4 @@
+wc-dhcp126d111:assignment1 gregorymoncayo$ git push
+Username for 'https://github.com': gregmoncayo
+Password for 'https://gregmoncayo@github.com': 
+Everything up-to-date
